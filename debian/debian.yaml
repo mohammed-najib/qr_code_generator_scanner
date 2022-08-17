@@ -4,11 +4,11 @@ flutter_app:
   parent: /usr/local/lib
 
 control:
-  Package: QR Code Generator
+  Package: qr-code-generator
   Version: 1.0.0
   Architecture: amd64
   Essential: no
   Priority: optional
   Depends:
-  Maintainer:
+  Maintainer: cool_person
   Description: QR Code Generator to Generate url QR codes

@@ -1,9 +1,0 @@
-[Desktop Entry]
-Version=1.0
-Name=QR Code Generator
-GenericName=QR Code Generator
-Comment=QR Code Generator to Generate url QR codes
-Terminal=false
-Type=Application
-Categories=Utility
-Keywords=Flutter;QR;
