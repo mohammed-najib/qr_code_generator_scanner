@@ -1,0 +1,14 @@
+flutter_app:
+  command: qr_code_generator
+  arch: x64
+  parent: /usr/local/lib
+
+control:
+  Package: QR Code Generator
+  Version: 1.0.0
+  Architecture: amd64
+  Essential: no
+  Priority: optional
+  Depends:
+  Maintainer:
+  Description: QR Code Generator to Generate url QR codes

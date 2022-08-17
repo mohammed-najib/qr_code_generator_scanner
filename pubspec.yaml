@@ -23,5 +23,18 @@ dev_dependencies:
     sdk: flutter
   flutter_lints: ^2.0.0
 
+  # to build windows msix
+  msix: ^3.6.3
+
+  # to build linux debian
+  flutter_to_debian: ^1.0.3
+
 flutter:
   uses-material-design: true
+
+msix_config:
+  display_name: QR Code Generator
+  publisher_display_name: Company Name
+  identity_name: company.suite.flutterapp
+  msix_version: 1.0.0.0
+  logo_path: windows\runner\resources\app_icon.ico
