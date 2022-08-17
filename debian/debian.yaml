@@ -1,5 +1,5 @@
 flutter_app:
-  command: qr_code_generator
+  command: qr_code_generator_scanner
   arch: x64
   parent: /usr/local/lib
 
